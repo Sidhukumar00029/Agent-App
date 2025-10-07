@@ -42,8 +42,8 @@ You must have the following installed on your machine:
 
 1.  **Clone the repository**
     ```sh
-    git clone [[https://your-repository-link-here.com](https://your-repository-link-here.com)]
-    cd your-repo-folder-name
+    git clone [https://github.com/Sidhukumar00029/Agent-App]
+    cd Agent-App
     ```
 
 2.  **Set up Backend**
